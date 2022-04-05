@@ -1,0 +1,23 @@
+{
+  "name": "holygrailactivity",
+  "version": "1.0.0",
+  "description": "Holy Grail Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emeritus101/HolyGrailActivity.git"
+  },
+  "author": "dgrigore@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emeritus101/HolyGrailActivity/issues"
+  },
+  "homepage": "https://github.com/emeritus101/HolyGrailActivity#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "redis": "^4.0.6"
+  }
+}
